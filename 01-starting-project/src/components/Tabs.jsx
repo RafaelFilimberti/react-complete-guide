@@ -14,5 +14,5 @@ export default function Tabs({ children, buttons, ButtonsContainer = "menu" }) {
 
 
 //{ children, buttons, ButtonsContainer = "menu" }
-//caso queria evitar o uso dessa props no componente, da pra definir o menu como tag 
+//caso queria evitar o uso dessa props no componente, da pra definir o menu como tag
 //padrão do componente
