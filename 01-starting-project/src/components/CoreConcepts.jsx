@@ -7,7 +7,6 @@
 //     </li>
 //   );
 // }
-
 //desestruturando o uso de props
 export default function CoreConcept({ image, title, description }) {
   return (
