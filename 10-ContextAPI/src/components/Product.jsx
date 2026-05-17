@@ -15,6 +15,7 @@ export default function Product({ id, image, title, price, description, }) {
         </div>
         <p className='product-actions'>
           <button onClick={() => addItemToCart(id)}>Add to Cart</button>
+         {/* // addItemToCart veio do contexto via useContext */}
         </p>
       </div>
     </article>
